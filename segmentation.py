@@ -111,12 +111,6 @@ class Segmentation:
         """ 
         chop input into beat length segments (beat_channels)
         """
-        # process_inputs can be written do be more versatile to be able to process any arbitrary input
-        # right it processes all three possible inputs which makes sense but that could be simplified
-        # the problem is how to process input C when it used
-        # it is not obvious without additional parameter specifiying the name of the input, what actually
-        # is bein processed. args.fln could actually chech that. 
-        # OK, so use args.flnsA/B/C to check inside process_inputs to check what the fln is at process time...
         
         InputA, InputB, InputC, inputA_measures, inputB_measures, inputC_measures, inputA_beats, inputB_beats, inputC_beats, n_samples = self.process_inputs()
         
