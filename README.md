@@ -1,6 +1,6 @@
 # Audio Style Transfer with Rhythmic Constraints
 
-DAFx2018 "Audio Style Transfer with Rhythmic Constraints code repository" code repository  
+DAFx2018 "Audio Style Transfer with Rhythmic Constraints" code repository  
 Maciek Tomczak  
 Presented at http://dafx2018.web.ua.pt/
 
@@ -31,5 +31,5 @@ audio_style_transfer.py -A inputA.wav -B inputB.wav -C inputC.wav -pA style 0.3 
 ```
 
 ## References
-| **[1]** |                  **[Tomczak, M., Southall, C., Hockman, J., Audio Style Transfer with Rhythmic Constraints,                    Proceedings of the 21st International Conference on Digital Audio Effects (DAFx-18), Aveiro, Portugal, September 4–8, 2018.](https://github.com/maciek-tomczak/audio-style-transfer-with-rhythmic-constraints/blob/master/paper.pdf)**|
+| **[1]** |                  **[Tomczak, M., C., Southall, J., Hockman, Audio Style Transfer with Rhythmic Constraints,                    Proceedings of the 21st International Conference on Digital Audio Effects (DAFx-18), Aveiro, Portugal, September 4–8, 2018.](https://github.com/maciek-tomczak/audio-style-transfer-with-rhythmic-constraints/blob/master/paper.pdf)**|
 | :---- | :--- |
