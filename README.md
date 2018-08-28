@@ -1,5 +1,12 @@
 # Audio Style Transfer with Rhythmic Constraints
-We present a rhythmically constrained audio style transfer technique for automatic mixing and mashing of two audio inputs. In this transformation the rhythmic and timbral features of both input signals are combined together through the use of an audio style transfer process that transforms the files so that they adhere to a larger metrical structure of the chosen input. New loss function based on cosine similarity of rhythmic envelopes is used with an addition of a third audio input for more varied transformations.
+
+DAFx2018 Audio Style Transfer with Rhythmic Constraints code repository
+Maciek Tomczak
+
+Presented at http://dafx2018.web.ua.pt/
+
+# Overview
+We present a rhythmically constrained audio style transfer technique for automatic mixing and mashing of two audio inputs. In this transformation the rhythmic and timbral features of both input signals are combined together through the use of an audio style transfer process that transforms the files so that they adhere to a larger metrical structure of the chosen input. New loss function based on cosine similarity of rhythmic envelopes can be used with an addition of a third audio input for more varied transformations.
 
 ## Installation
 ### Required Packages
@@ -25,5 +32,5 @@ audio_style_transfer.py -A inputA.wav -B inputB.wav -C inputC.wav -pA style 0.3 
 ```
 
 ## References
-| **[1]** |                  **[Tomczak, M., Southall, C., Hockman, J., Audio Style Transfer with Rhythmic Constraints,                    Proceedings of the 21st International Conference on Digital Audio Effects (DAFx-18), Aveiro, Portugal, September 4–8, 2018.](https://)**|
+| **[1]** |                  **[Tomczak, M., Southall, C., Hockman, J., Audio Style Transfer with Rhythmic Constraints,                    Proceedings of the 21st International Conference on Digital Audio Effects (DAFx-18), Aveiro, Portugal, September 4–8, 2018.](https://github.com/maciek-tomczak/audio-style-transfer-with-rhythmic-constraints/blob/master/paper.pdf)**|
 | :---- | :--- |
