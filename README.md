@@ -1,6 +1,7 @@
 # Audio Style Transfer with Rhythmic Constraints
 
-DAFx2018 Audio Style Transfer with Rhythmic Constraints code repository
+DAFx2018 "Audio Style Transfer with Rhythmic Constraints code repository"
+
 Maciek Tomczak
 
 Presented at http://dafx2018.web.ua.pt/
