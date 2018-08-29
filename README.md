@@ -2,7 +2,8 @@
 
 DAFx2018 "Audio Style Transfer with Rhythmic Constraints" code repository  
 Maciek Tomczak  
-Presented at http://dafx2018.web.ua.pt/
+Presented at http://dafx2018.web.ua.pt/  
+Audio examples at https://maciek-tomczak.github.io/maciek.github.io/Audio-Style-Transfer-with-Rhythmic-Constraints
 
 # Overview
 We present a rhythmically constrained audio style transfer technique for automatic mixing and mashing of two audio inputs. In this transformation the rhythmic and timbral features of both input signals are combined together through the use of an audio style transfer process that transforms the files so that they adhere to a larger metrical structure of the chosen input. New loss function based on cosine similarity of rhythmic envelopes can be used with an addition of a third audio input for more varied transformations.
